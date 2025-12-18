@@ -1,5 +1,7 @@
 # Five Tribes Iris Classification
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/codearranger/five-tribes-ml/blob/main/five_tribes_iris_classification.ipynb)
+
 An educational Jupyter notebook demonstrating how the five tribes of machine learning (from Pedro Domingos' "The Master Algorithm") approach the classic Iris flower classification problem.
 
 ## Overview
